@@ -23,7 +23,7 @@ const Product = ({product}) => {
         backgroundColor:'purple'
       }}
       >Add</Button>
-    </div>
+    </div> 
   )
 }
 

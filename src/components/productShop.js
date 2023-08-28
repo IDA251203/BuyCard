@@ -21,7 +21,7 @@ useEffect(() => {
       <div className={styles.product__cont}>
       {products.map(product => (
              <Product key={product.id} product={product} /> 
-           ))}
+           ))} 
       </div>
     </div>
   );
